@@ -1,0 +1,18 @@
+# **3. Desenvolvimento dos Fluxos de Conversa**
+
+## Descrição
+Criação e configuração dos tópicos e interações.
+
+### Passos
+1. **Criação de Tópicos**
+   - **Diagnóstico de Problemas**:
+     - Pergunta inicial: "Qual é o problema que você está enfrentando?"
+     - Identifica o problema e sugere soluções.
+   - **Consultar Status de Chamados**:
+     - Pergunta inicial: "Informe o número do chamado."
+     - Valida o número e retorna o status.
+2. **Uso de Variáveis**
+   - Configure **variáveis globais** para informações reutilizáveis em vários tópicos.
+   - Configure **variáveis locais** para dados específicos de cada interação.
+3. **Teste dos Fluxos**
+   - Simule interações e ajuste os fluxos conforme necessário.
