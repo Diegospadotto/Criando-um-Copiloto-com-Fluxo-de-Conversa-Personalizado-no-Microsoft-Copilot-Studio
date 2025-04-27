@@ -1,0 +1,12 @@
+# **5. Personalização Avançada**
+
+## Descrição
+Refinamento e ajustes para garantir uma experiência personalizada e alinhada ao branding.
+
+### Passos
+1. **Mensagens de Erro Personalizadas**
+   - Adicione mensagens como: "Desculpe, não consegui encontrar essa informação. Tente novamente ou entre em contato com o suporte."
+2. **Fluxos de Fallback**
+   - Configure interações genéricas para lidar com perguntas fora do escopo.
+3. **Estilo e Branding**
+   - Ajuste o visual e o tom do Copiloto para refletir a identidade da marca.
