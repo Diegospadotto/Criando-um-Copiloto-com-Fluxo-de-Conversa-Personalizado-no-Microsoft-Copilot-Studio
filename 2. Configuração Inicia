@@ -1,0 +1,13 @@
+# **2. Configuração Inicial**
+
+## Descrição
+Configuração do ambiente no Microsoft Copilot Studio, incluindo criação e ajustes básicos do Copiloto.
+
+### Passos
+1. **Criação do Copiloto**
+   - Acesse o Microsoft Copilot Studio e clique em "Criar novo Copiloto".
+   - Nomeie o projeto como **"Assistente Técnico Personalizado"**.
+   - Configure o idioma principal como **Português**.
+2. **Configurações Básicas**
+   - Defina o tom do Copiloto como **amigável e profissional**.
+   - Configure mensagens iniciais e de erro padrão para orientações ao usuário.
