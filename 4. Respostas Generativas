@@ -1,0 +1,13 @@
+# **4. Respostas Generativas**
+
+## Descrição
+Integração de respostas generativas para lidar com perguntas complexas e fora do escopo predefinido.
+
+### Passos
+1. **Configuração de Knowledge Sources**
+   - Adicione fontes como SharePoint, FAQs ou documentos técnicos.
+2. **Ajuste de Parâmetros**
+   - Configure a **temperatura** para 0.7 (equilíbrio entre criatividade e precisão).
+   - Ajuste o **top-p** para garantir consistência nas respostas.
+3. **Testes**
+   - Simule perguntas complexas para verificar se as respostas estão adequadas e precisas.
